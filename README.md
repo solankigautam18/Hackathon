@@ -27,12 +27,6 @@ The following tools and frameworks were used to implement the solution:
 - **Flowchart Creation**: Graphviz
 - **Database**: SQL for querying and managing call center data
 
-## Repository Structure
-The project repository is organized as follows:
-
-project-root/ │ ├── data/ # Contains all datasets used for analysis │ ├── calls.csv │ ├── customers.csv │ ├── reason.csv │ ├── sentiment_statistics.csv │ └── test.csv │ ├── notebooks/ # Jupyter notebooks for data analysis and model development │ └── SKYHACK_2.ipynb │ ├── src/ # Python scripts for data preprocessing, modeling, and evaluation │ └── model.py │ ├── images/ # Contains images of visualizations and flowcharts │ ├── AHT_by_Call_Reason.png │ ├── Self_Solvable_vs_Agent_Handled_Issues.png │ ├── Optimized_IVR_Flowchart.png │ └── Feature_Correlation_Heatmap.png │ ├── README.md # Project documentation and overview ├── requirements.txt # Required libraries and dependencies └── LICENSE # Project license information
-
-
 ## Setup Instructions
 Follow these steps to set up the project locally:
 
