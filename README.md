@@ -1,5 +1,14 @@
 # United Airlines Call Center Optimization Project
 
+## Authors
+This project was created and developed by the following contributors:
+
+- **[Gautam](https://github.com/solankigautam18)**
+  - Email: gautamsolanki0218@gmail.com
+
+- **[Suraj Kumar](https://www.linkedin.com/in/suraj-kumar-b3663326b)**
+  - Email: surajkumar736991@gmail.com
+
 ## Problem Statement
 
 United Airlines strives to offer world-class customer service through its call center operations. However, the call center faces challenges in managing key performance metrics such as Average Handle Time (AHT) and Average Speed to Answer (AST). Inefficiencies in these areas result in increased operational costs and reduced customer satisfaction. 
