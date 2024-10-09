@@ -1,10 +1,11 @@
 # United Airlines Call Center Optimization Project
 
 ## Problem Statement
+<p align="justify">
 United Airlines strives to offer world-class customer service through its call center operations. However, the call center faces challenges in managing key performance metrics such as Average Handle Time (AHT) and Average Speed to Answer (AST). Inefficiencies in these areas result in increased operational costs and reduced customer satisfaction. 
 
 The objective of this project is to analyze the existing call center data to identify the factors contributing to extended AHT and AST, and to propose a data-driven solution for optimizing call handling processes. This will lead to reduced call handling times, faster issue resolutions, and an overall improved customer experience.
-
+</p>
 ## Solution Overview
 The solution involves a comprehensive analysis of historical call data, call transcripts, and customer sentiment. The project leverages Natural Language Processing (NLP) techniques and machine learning models to classify call reasons, identify high-impact areas, and recommend improvements to the IVR (Interactive Voice Response) system.
 
